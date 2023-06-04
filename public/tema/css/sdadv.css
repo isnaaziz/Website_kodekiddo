@@ -1,0 +1,85 @@
+/*--------------------------------------------------------------
+# SD Beginner 
+--------------------------------------------------------------*/
+
+.sdadv .icon-box {
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+    background: #fff;
+    box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
+    transition: all 0.3s ease-in-out;
+    border-radius: 4px;
+    text-align: center;
+    border-bottom: 3px solid #edebeb;
+}
+
+.sdadv .icon-box:hover {
+    transform: translateY(-5px);
+}
+
+.platform .icon i {
+    font-size: 48px;
+    line-height: 1;
+    margin-bottom: 15px;
+}
+
+.sdadv .icon img {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 15px;
+}
+
+.sdadv .icon-box .title {
+    font-weight: 700;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.sdadv .icon-box .title a {
+    color: #111;
+}
+
+.sdadv .icon-box .description {
+    font-size: 15px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.platform .icon-box-pink .icon i {
+    color: #ff689b;
+}
+
+.platform .icon-box-pink:hover {
+    border-color: #ff689b;
+}
+
+.platform .icon-box-cyan .icon i {
+    color: #3fcdc7;
+}
+
+.platform .icon-box-cyan:hover {
+    border-color: #3fcdc7;
+}
+
+.platform .icon-box-green .icon i {
+    color: #41cf2e;
+}
+
+.platform .icon-box-green:hover {
+    border-color: #41cf2e;
+}
+
+.platform .icon-box-blue .icon i {
+    color: #2282ff;
+}
+
+.platform .icon-box-blue:hover {
+    border-color: #2282ff;
+}
+
+
+/*--------------------------------------------------------------
+# Program
+--------------------------------------------------------------*/
