@@ -78,7 +78,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project SD Advanced</h2>
-          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Malang berdasarkan usia murid.</p>
+          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Kudus berdasarkan usia murid.</p>
         </div>
 
         <div class="row">

@@ -77,7 +77,7 @@
       <div class="container">
         <div class="section-title" data-aos="fade-up">
             <h2>Explore Our Program</h2>
-            <p>Berikut program yang dapat diikuti oleh murid, baik yang mengikuti kelas reguler maupun non-reguler <br> di KodeKiddo Malang</p>
+            <p>Berikut program yang dapat diikuti oleh murid, baik yang mengikuti kelas reguler maupun non-reguler <br> di KodeKiddo Kudus</p>
           </div>
           <div class="row row-cols-1 row-cols-md-2 g-4 ">
             <div class="col">

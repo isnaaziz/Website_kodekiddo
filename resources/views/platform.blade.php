@@ -78,7 +78,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Platform Pembelajaran</h2>
-          <p>Berikut merupakan platform aplikasi pembelajaran <br> di KodeKiddo Malang</p>
+          <p>Berikut merupakan platform aplikasi pembelajaran <br> di KodeKiddo Kudus</p>
         </div>
 
         <div class="row">

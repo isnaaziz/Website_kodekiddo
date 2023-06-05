@@ -79,7 +79,7 @@
       <div class="row">
         <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center" data-aos="fade-up">
           <div>
-            <h1>KODEKIDDO MALANG</h1>
+            <h1>KODEKIDDO KUDUS</h1>
             <h2>KodeKiddo adalah tempat belajar coding yang interaktif dan seru untuk anak-anak. Kami menawarkan kelas untuk kegiatan afterschool dan aktifitas untuk liburan sekolah di lokasi KodeKiddo atau di sekolah, dengan menggunakan teknologi dan metodologi yang dikembangkan khusus untuk anak.Dengan kantor pusat di Silicon Valley USA, KodeKiddo membawa program-program global yang dilakukan di negara maju dan kesempatan partisipasi di kompetisi coding internasional.</h2>
             <a href="#month" class="btn-get-started scrollto">Get Started</a>
           </div>
@@ -158,7 +158,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project SMP</h2>
-          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Malang berdasarkan usia murid.</p>
+          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo KUDUS berdasarkan usia murid.</p>
         </div>
 
         <div class="row">
@@ -236,7 +236,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project SMA</h2>
-          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Malang berdasarkan usia murid.</p>
+          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo KUDUS berdasarkan usia murid.</p>
         </div>
 
         <div class="row">
@@ -318,7 +318,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project ZIP CLASS</h2>
-          <p>Berikut merupakan project Zip Class <br> di KodeKiddo Malang</p>
+          <p>Berikut merupakan project Zip Class <br> di KodeKiddo KUDUS</p>
         </div>
 
         
@@ -412,7 +412,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project Holiday Program</h2>
-          <p>Berikut merupakan project Holiday Program <br> di KodeKiddo Malang</p>
+          <p>Berikut merupakan project Holiday Program <br> di KodeKiddo KUDUS</p>
         </div>
 
         
@@ -468,7 +468,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project STEM</h2>
-          <p>Berikut merupakan project STEM <br> di KodeKiddo Malang</p>
+          <p>Berikut merupakan project STEM <br> di KodeKiddo KUDUS</p>
         </div>
 
         
