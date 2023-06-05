@@ -9,6 +9,7 @@ use App\Http\Controllers\PlatformController;
 use App\Http\Controllers\ProgramController;
 use App\Http\Controllers\ContactusController;
 use App\Http\Controllers\WelcomeController;
+use App\Http\Controllers\SmpController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -26,6 +27,7 @@ Route::get('/', function () {
 Route::get('/welcome', [WelcomController::class, 'index'])->name('welcom'); 
 Route::get('/sdbeginner', [SdbeginnerController::class, 'index'])->name('sdbeginner');
 Route::get('/sdadv', [SdadvController::class, 'index'])->name('sdadv');
+Route::get('/smp', [SmpController::class, 'index'])->name('smp');
 Route::get('/about', [AboutController::class, 'index'])->name('about');
 Route::get('/level', [LevelController::class, 'index'])->name('level');
 Route::get('/platform', [PlatformController::class, 'index'])->name('platform');

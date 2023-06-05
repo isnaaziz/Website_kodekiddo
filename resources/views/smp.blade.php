@@ -71,54 +71,85 @@
 
     </div>
   </header><!-- End Header -->
-  <main id="main">
 
-        <!-- ======= Level Section ======= -->
+    <!-- ======= SMP Section ======= -->
     <section id="level" class="level section-bg">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Explore Our Levels</h2>
-          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Kudus berdasarkan usia murid.</p>
+          <h2>Project SMP</h2>
+          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo KUDUS berdasarkan usia murid.</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('sdbeginner')}}">Coding for <br> SD Beginner</a></h4>
-              <p class="description">Untuk Kelas 1-4 SD</p>
+              <h4 class="title"><a href="">Scratch: Clonewars <br> Wilson</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/753127004</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('sdadv')}}">Coding for <br> SD Advanced</a></h4>
-              <p class="description">Untuk Kelas 4-6 SD</p>
+              <h4 class="title"><a href="">Trinket: My Story Website <br> Abhi</a></h4>
+              <p class="description">https://trinket.io/html/5937f88ce3?runMode=autorun</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('smp')}}">Coding for <br> SMP</a></h4>
-              <p class="description">Untuk Kelas 7-9 SMP</p>
+              <h4 class="title"><a href="">Scratch: Space Explorer Game<br> Wilson</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/764344038</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="">Coding for <br> SMA</a></h4>
-              <p class="description">Untuk kelas 10 - Prakuliah</p>
+              <h4 class="title"><a href="">CS First: Net Sports<br> Wilson</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/727798156</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
+            <div class="icon-box icon-box-pink">
+              <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
+              <h4 class="title"><a href="">CS First: All Star Passing Drill <br> Wilson</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/730281977</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box icon-box-cyan">
+              <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
+              <h4 class="title"><a href="">CS First: Batter Up <br> Wilson</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/733207225</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box icon-box-green">
+               <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
+              <h4 class="title"><a href="">CS First: Extreme Game <br> Wilson</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/733214691</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box icon-box-blue">
+              <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
+              <h4 class="title"><a href="">Make Music with Scratch <br> Darrell</a></h4>
+              <p class="description">https://scratch.mit.edu/projects/733206884</p>
             </div>
           </div>
 
         </div>
 
       </div>
-    </section><!-- End Level Section -->
+    </section><!-- End Smp Section -->
+
 
   </main><!-- End #main -->
 
