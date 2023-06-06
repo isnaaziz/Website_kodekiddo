@@ -85,8 +85,8 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Gaming Story <br> Gwyneth</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/664349339</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/753088736">Gaming Story </a></h4>
+              <p class="description">Gwyneth</p>
             </div>
           </div>
 
@@ -94,7 +94,8 @@
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
               <h4 class="title"><a href="">Dodgeball <br> Nathalie</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/753088736</p>
+              <p class="description" href="" >https://scratch.mit.edu/projects/753088736</p>
+              <h4 class="title"><a href="">Scratch</a></h4>
             </div>
           </div>
 
