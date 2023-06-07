@@ -154,84 +154,7 @@
 
     
 
-    <!-- ======= SMA Section ======= -->
-    <section id="level" class="level section-bg">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Project SMA</h2>
-          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo KUDUS berdasarkan usia murid.</p>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
-            <div class="icon-box icon-box-pink">
-              <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Username Generator <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/677090123</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box icon-box-cyan">
-              <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="">Turtle Race <br> Velicia</a></h4>
-              <p class="description">https://trinket.io/python/7078fb7f4d</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box icon-box-green">
-               <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="">Shape and color <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/700051358</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box icon-box-blue">
-              <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="">Username Generator <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/677090123</p>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
-            <div class="icon-box icon-box-pink">
-              <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Cat goes Skiing <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/677096203</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box icon-box-cyan">
-              <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="">Swimming <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/677096279</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
-            <div class="icon-box icon-box-green">
-               <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="">Archery <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/677105458</p>
-            </div>
-          </div>
-
-          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
-            <div class="icon-box icon-box-blue">
-              <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="">Sprint <br> Velicia</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/677105935</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End SMA Section -->
-
+    
 
    
 
@@ -242,7 +165,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project ZIP CLASS</h2>
-          <p>Berikut merupakan project Zip Class <br> di KodeKiddo KUDUS</p>
+          <p>Berikut merupakan project Zip Class <br> di KodeKiddo Kudus</p>
         </div>
 
         
@@ -336,7 +259,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project Holiday Program</h2>
-          <p>Berikut merupakan project Holiday Program <br> di KodeKiddo KUDUS</p>
+          <p>Berikut merupakan project Holiday Program <br> di KodeKiddo Kudus</p>
         </div>
 
         
@@ -392,7 +315,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project STEM</h2>
-          <p>Berikut merupakan project STEM <br> di KodeKiddo KUDUS</p>
+          <p>Berikut merupakan project STEM <br> di KodeKiddo Kudus</p>
         </div>
 
         
@@ -442,144 +365,6 @@
     </section><!-- End STEM Section -->
 
 
-    <!-- ======= F.A.Q Section ======= -->
-    <section id="faq" class="faq">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-up">
-          <h2>Frequently Asked Questions</h2>
-        </div>
-
-        <ul class="faq-list">
-
-          <li>
-            <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Non consectetur a erat nam at lectus urna duis? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
-            <div id="faq1" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
-            <div id="faq2" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
-            <div id="faq3" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Ac odio tempor orci dapibus. Aliquam eleifend mi in nulla? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
-            <div id="faq4" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
-            <div id="faq5" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <div data-bs-toggle="collapse" href="#faq6" class="collapsed question">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
-            <div id="faq6" class="collapse" data-bs-parent=".faq-list">
-              <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-              </p>
-            </div>
-          </li>
-
-        </ul>
-
-      </div>
-    </section><!-- End Frequently Asked Questions Section -->
-
-    
-
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="footer-info">
-              <h3>Scaffold</h3>
-              <p>
-                A108 Adam Street <br>
-                NY 535022, USA<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> info@example.com<br>
-              </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Scaffold</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

@@ -85,65 +85,64 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="https://scratch.mit.edu/projects/753088736">Gaming Story </a></h4>
-              <p class="description">Gwyneth</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/858740488/">Ajojing Interactive Animation </a></h4>
+              <p class="description">Philip <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="">Dodgeball <br> Nathalie</a></h4>
-              <p class="description" href="" >https://scratch.mit.edu/projects/753088736</p>
-              <h4 class="title"><a href="">Scratch</a></h4>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/857309918/">Boat Race</a></h4>
+              <p class="description">Nico <br> Scratch</r></p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="">Gravity Maze <br> Davin</a></h4>
-              <p class="description">https://www.tynker.com/ide/v3?type=player&p=636603396186336fad0373c5</p>
+              <h4 class="title"><a href="www.tynker.com/ide/v3?type=player&p=64647afed6d4051d047316b8">Math Quiz Game </a></h4>
+              <p class="description">Christopher Arvin Prasetyo <br> Tynker </p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="">Bug Soccer <br> Justin Felix</a></h4>
-              <p class="description">https://www.tynker.com/ide/v3?type=player&p=636603787d2fa3306f7b306c</p>
+              <h4 class="title"><a href="www.tynker.com/ide/v3?type=player&p=647085302cb8c636e76466ee">Rare Thrill Runners </a></h4>
+              <p class="description">Mikayla K Agusta<br> Tynker</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Python Turtle <br> Jonathan</a></h4>
-              <p class="description">https://trinket.io/python/66fa22aa4f</p>
+              <h4 class="title"><a href="www.tynker.com/ide/v3?type=player&p=646b13238e16a03382001147">Space Rush</a></h4>
+              <p class="description">Rayvan Marlon Himawan <br> Tynker</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="">Turtle Snowflakes <br> Jonathan</a></h4>
-              <p class="description">https://trinket.io/python/8c96c7465e</p>
+              <h4 class="title"><a href="">Turtle Snowflakes </a></h4>
+              <p class="description">Jonathan <br> Trinket</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="">Storytime <br> Gizela</a></h4>
-              <p class="description">https://trinket.io/python/7638f5b698</p>
+              <h4 class="title"><a href="">Storytime </a></h4>
+              <p class="description">Gizela <br> Trinket</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="">Magic 8 Ball<br> Gizela</a></h4>
-              <p class="description">https://trinket.io/python/07e38ae5d8</p>
+              <h4 class="title"><a href="">Magic 8 Ball </a></h4>
+              <p class="description">Gizela <br> Trinket </p>
             </div>
           </div>
 

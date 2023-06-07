@@ -85,39 +85,39 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Music Project on Scratch <br> Nicholas London</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/758085696</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/860371614/ ">Paint Box </a></h4>
+              <p class="description">Andra <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="">Scratch: Code Your Hero for <br> Jayden Milan</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/663737048</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/847699619/ ">Super Hero</a></h4>
+              <p class="description">Albi <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="">Tynker: Peep Dance <br> Kenneth</a></h4>
-              <p class="description">www.tynker.com/ide/v3?type=player&p=623979ee0a324d1687211e27</p>
+              <h4 class="title"><a href="www.tynker.com/ide/v3?type=player&p=646dd84b0a44c52151747e71">Dance Party</a></h4>
+              <p class="description">Laurentius Daniel <br> Tynker</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="">Tynker: Nature Walk <br> Fahma</a></h4>
-              <p class="description">www.tynker.com/ide/v3?type=player&p=62397d7a468a166b9267daab </p>
+              <h4 class="title"><a href="www.tynker.com/ide/v3?type=player&p=646ddb12462d1c710e40f900">Dancing Dragon</a></h4>
+              <p class="description">Laurentius Daniel <br> Tynker</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Code.org: Project Story or Game <br> Jaden </a></h4>
-              <p class="description">https://studio.code.org/projects/playlab/I7VLyQskphbl-LyDODOGNTUrLV8Yp1QW_CNLy9X8LeY </p>
+              <h4 class="title"><a href="www.tynker.com/ide/v3?type=player&p=6427d0642acb5c635e630f0d">Sound System Animation </a></h4>
+              <p class="description">Albert Wilson Julian <br> Tynker</p>
             </div>
           </div>
 

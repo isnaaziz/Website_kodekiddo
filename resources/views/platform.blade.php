@@ -85,7 +85,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/trinket.ico')}}"></img></div>
-              <h4 class="title"><a href="">Trinket</a></h4>
+              <h4 class="title"><a href="https://trinket.io/">Trinket</a></h4>
               <p class="description">Trinket is perfect digital media objects for online media sites and course platforms.</p>
             </div>
           </div>
@@ -93,7 +93,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/tynker.ico')}}"></img></div>
-              <h4 class="title"><a href="">Tynker</a></h4>
+              <h4 class="title"><a href="https://www.tynker.com/">Tynker</a></h4>
               <p class="description">Tynker is an educational programming platform to help children learn coding skills, including game design, web design, animation and robotics.</p>
             </div>
           </div>
@@ -101,7 +101,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/scratch.ico')}}"></img></div>
-              <h4 class="title"><a href="">Scratch</a></h4>
+              <h4 class="title"><a href="https://scratch.mit.edu/">Scratch</a></h4>
               <p class="description">Scratch is the world’s largest coding community for children and a coding language with a simple visual interface that allows young people to create digital stories, games, and animations.</p>
             </div>
           </div>
@@ -109,7 +109,7 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="{{asset('tema/img/codeorg.ico')}}"></img></div>
-              <h4 class="title"><a href="">Code.org</a></h4>
+              <h4 class="title"><a href="https://code.org/">Code.org</a></h4>
               <p class="description">Code.org  is an education innovation nonprofit dedicated to the vision that every student in every school has the opportunity to learn computer science as part of their core K-12 education.</p>
             </div>
           </div>

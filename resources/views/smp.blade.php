@@ -78,31 +78,31 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Project SMP</h2>
-          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo KUDUS berdasarkan usia murid.</p>
+          <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Kudus berdasarkan usia murid.</p>
         </div>
 
         <div class="row">
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="">Scratch: Clonewars <br> Wilson</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/753127004</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/860368356/">Addition Escape </a></h4>
+              <p class="description">Gerrard <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="">Trinket: My Story Website <br> Abhi</a></h4>
-              <p class="description">https://trinket.io/html/5937f88ce3?runMode=autorun</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/859259551/">Brain Game</a></h4>
+              <p class="description">Gerrard <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="">Scratch: Space Explorer Game<br> Wilson</a></h4>
-              <p class="description">https://scratch.mit.edu/projects/764344038</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/764344038">Scratch: Space Explorer Game<br> Wilson</a></h4>
+              <p class="description"> Wilson  <br> Scratch</p>
             </div>
           </div>
 

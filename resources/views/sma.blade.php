@@ -71,14 +71,13 @@
 
     </div>
   </header><!-- End Header -->
-  <main id="main">
 
-        <!-- ======= Level Section ======= -->
+    <!-- ======= SMA Section ======= -->
     <section id="level" class="level section-bg">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Explore Our Levels</h2>
+          <h2>Project SMA</h2>
           <p>Berikut merupakan pembagian level yang tersedia di KodeKiddo Kudus berdasarkan usia murid.</p>
         </div>
 
@@ -86,39 +85,72 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
             <div class="icon-box icon-box-pink">
               <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('sdbeginner')}}">Coding for <br> SD Beginner</a></h4>
-              <p class="description">Untuk Kelas 1-4 SD</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/677090123">Username Generator </a></h4>
+              <p class="description">Velicia <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box icon-box-cyan">
               <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('sdadv')}}">Coding for <br> SD Advanced</a></h4>
-              <p class="description">Untuk Kelas 4-6 SD</p>
+              <h4 class="title"><a href="https://trinket.io/python/7078fb7f4d">Turtle Race </a></h4>
+              <p class="description">Velicia <br> Trinket</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box icon-box-green">
                <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('smp')}}">Coding for <br> SMP</a></h4>
-              <p class="description">Untuk Kelas 7-9 SMP</p>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/700051358">Shape and color </a></h4>
+              <p class="description">Velicia <br> Scratch</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box icon-box-blue">
               <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
-              <h4 class="title"><a href="{{route('sma')}}">Coding for <br> SMA</a></h4>
-              <p class="description">Untuk kelas 10 - Prakuliah</p>
+              <h4 class="title"><a href="https://pictoblox.page.link/fv1V1mpUt7az41dYA">Logo Quiz </a></h4>
+              <p class="description">Raynard <br> Scratch</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in">
+            <div class="icon-box icon-box-pink">
+              <div class="icon"><img src="{{asset('tema/img/sdbeginner.ico')}}"></img></div>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/677096203">Cat goes Skiing</a></h4>
+              <p class="description">Velicia <br> Scratch</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box icon-box-cyan">
+              <div class="icon"><img src="{{asset('tema/img/sdadv.ico')}}"></img></div>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/677096279">Swimming </a></h4>
+              <p class="description">Velicia <br> Scratch</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box icon-box-green">
+               <div class="icon"><img src="{{asset('tema/img/smp.ico')}}"></img></div>
+              <h4 class="title"><a href="ttps://scratch.mit.edu/projects/677105458">Archery </a></h4>
+              <p class="description">Velicia <br> Scratch</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box icon-box-blue">
+              <div class="icon"><img src="{{asset('tema/img/sma.ico')}}"></img></div>
+              <h4 class="title"><a href="https://scratch.mit.edu/projects/677105935">Sprint </a></h4>
+              <p class="description">Velicia <br> Scratch</p>
             </div>
           </div>
 
         </div>
 
       </div>
-    </section><!-- End Level Section -->
+    </section><!-- End SMA Section -->
+
+
 
   </main><!-- End #main -->
 

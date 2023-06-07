@@ -94,24 +94,24 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Jl. Telaga Bodas Y2 2</p>
+                <p>Jl. Pemuda No. 57</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>kodekiddomlg.o@gmail.com</p>
+                <p>infokudus@kodekiddo.com</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-whatsapp"></i>
                 <h4>Whatsapp:</h4>
-                <p>+6281217808828</p>
+                <p>+6281393619889</p>
               </div>
               <div class="phone">
                 <i class="bi bi-instagram"></i>
                 <h4>Instagram:</h4>
-                <p>@kodekiddomalang</p>
+                <p>@kodekiddo.kds</p>
               </div>
             </div>
 
