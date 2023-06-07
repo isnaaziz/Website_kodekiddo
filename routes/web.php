@@ -35,3 +35,6 @@ Route::get('/sma', [SmaController::class, 'index'])->name('sma');
 Route::get('/platform', [PlatformController::class, 'index'])->name('platform');
 Route::get('/program', [ProgramController::class, 'index'])->name('program');
 Route::get('/contact', [ContactusController::class, 'index'])->name('contact');
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
