@@ -84,9 +84,9 @@
             <div class="content pt-4 pt-lg-0">
               <h3>Learn coding with KodeKiddo</h3>
               <p>
-              KodeKiddo Kudus merupakan salah satu centre partner yang telah berdiri sejak tahun 2019 yang berlokasi di Jalan Telaga Bodas Y2 2. Hingga saat ini, centre Kudus memiliki 170 murid yang aktif. <br> <br>
+              KodeKiddo Kudus merupakan salah satu centre partner yang telah berdiri sejak tahun 2020 yang berlokasi di Jalan Pemuda No.57. Hingga saat ini, centre Kudus memiliki 80 murid yang aktif. <br> <br>
               KodeKiddo Kudus sendiri beroperasional 
-              pada pukul 10 pagi hingga 5 sore. Selain kelas Reguler dan STEM, terdapat program lain yang dapat diikuti oleh murid yaitu, ZIP Class, Holiday Program, dan Competition. <br> <br>
+              pada pukul 12 siang hingga 5 sore. Selain kelas Reguler dan STEM, terdapat program lain yang dapat diikuti oleh murid yaitu, ZIP Class, Holiday Program, dan Competition. <br> <br>
               Dengan belajar coding, anak-anak dapat meningkatkan cara berpikir atau logika, meningkatkan kreativitas, membangun kebiasaan belajar, membangun rasa penasaran & percaya diri, dan membiasakan diri dengan teknologi.
             </p>
               
